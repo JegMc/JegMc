@@ -2,13 +2,19 @@
 
 I work in AI integration: connecting agents to servers, maintaining a platform's UI, and verifying that AI-changed data is actually right. On the side I build backend tools in C# and ASP.NET Core, like RepoSummary, which makes AI career writing cite real code.
 
-## Featured project
+## Featured projects
 
 ### [RepoSummary](https://github.com/JegMc/RepoSummary)
 
 Turns a public GitHub repo into a maturity score, architecture diagrams, code Q&A, and résumé material that cites the actual code.
 
 *ASP.NET Core (.NET 10) · EF Core · SQLite · OpenAI/Anthropic*
+
+### [Onkey Desktop Pet](https://therealjodge.itch.io/onkey-desktop-pet)
+
+A Windows desktop pet: a monkey who roams your screens, rides your windows, dances to your music, and has his own shop, garden, and arcade. Free on itch.io. Onkey character created by nobeyone.
+
+*Windows 10 & 11*
 
 ## Contributions
 
