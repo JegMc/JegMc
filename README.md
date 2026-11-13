@@ -1,6 +1,6 @@
 # Jeg McIntire
 
-I work in AI integration: connecting agents to servers, maintaining a platform's UI, and verifying that AI-changed data is actually right. On the side I build backend tools in C# and ASP.NET Core, like RepoSummary, which makes AI career writing cite real code.
+I work in AI integration: connecting agents to servers, maintaining a platform's UI, and verifying that AI-changed data is actually right. On the side I build my own tools with AI-assisted development, like RepoSummary, which makes AI career writing cite real code.
 
 ## Featured projects
 
